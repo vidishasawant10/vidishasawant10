@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a Full Stack developer that enjoys creating web applications and UI/UX design.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/vidisha-vijay-sawant-23a63613a)
+
 
 <!--
 **vidishasawant10/vidishasawant10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
