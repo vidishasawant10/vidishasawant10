@@ -3,10 +3,10 @@ I am a Full Stack developer that enjoys creating web applications and UI/UX desi
 - UI/UX Project Website: [![Student Hub](https://img.shields.io/badge/Website-Student%20Hub-blue)](https://webpage.pace.edu/np57411n/cs641/StudentHub/index.html)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/vidisha-vijay-sawant-23a63613a)
 - 🤔 I’m looking for Full-time/Internship opportunity.
+- Download my Resume here: 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vidishasawant10)](https://git.io/streak-stats)
-
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vidishasawant10)](https://github.com/LordDashMe/github-contribution-stats/)
 
