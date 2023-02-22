@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am a Full Stack developer that enjoys creating web applications and UI/UX design.
+- UI/UX Project Website: [![Website logo](https://www.flaticon.com/free-icon/ux_1055666?term=website&page=1&position=12&origin=search&related_id=1055666)](https://webpage.pace.edu/np57411n/cs641/StudentHub/index.html)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/vidisha-vijay-sawant-23a63613a)
 
 
