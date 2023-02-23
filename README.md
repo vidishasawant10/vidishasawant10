@@ -6,6 +6,7 @@ I am a Full Stack developer that enjoys creating web applications and UI/UX desi
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/vidisha-vijay-sawant-23a63613a)
 - 🤔 I’m looking for Full-time/Internship opportunity.
 - :notebook: Download my Resume here: <a href ="Docs/Vidisha Vijay Sawant.pdf">Vidisha Vijay Sawant Resume</a>
+- 📝Currently working on 100daysofcoding challenge.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vidishasawant10)](https://git.io/streak-stats)
