@@ -5,7 +5,7 @@ I am a Full Stack developer that enjoys creating web applications and UI/UX desi
 - HCI Project Figma Link: <a href ="https://www.figma.com/file/ELTMykNSTHb7wJFoC6Qcbf/Volunteer-Website?node-id=0%3A1&t=Qr91o00QQS2mlKbl-1">Hope</a>
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/vidisha-vijay-sawant-23a63613a)
 - 🤔 I’m looking for Full-time/Internship opportunity.
-- :notebook: Download my Resume here: <a href ="Docs/Vidisha Vijay Sawant.pdf">Vidisha Vijay Sawant Resume</a>
+- :notebook: Download my Resume here: <a href ="Vidisha Sawant Resume.pdf">Vidisha Vijay Sawant Resume</a>
 - 📝Currently working on 100DaysofCoding challenge.
 
 
