@@ -5,7 +5,7 @@ I am a Software Developer that enjoys creating web applications and UI/UX design
 - HCI Project Figma Link: <a href ="https://www.figma.com/file/YtNW6yNZUqosMQjKaUsiv3/Hope?node-id=0%3A1&t=pyUbt20Zm1vt1tAi-1">Hope</a>
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/vidisha-vijay-sawant-23a63613a)
 - 🤔 I’m looking for Full-time/Internship opportunity.
-- :notebook: Download my Resume here: <a href ="Vidisha-Resume.pdf">Vidisha Vijay Sawant Resume</a>
+- :notebook: Download my Resume here: <a href ="Vidisha Sawant Resume.pdf">Vidisha Vijay Sawant Resume</a>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vidishasawant10)](https://git.io/streak-stats)
