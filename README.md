@@ -6,7 +6,6 @@ I am a Software Developer that enjoys creating web applications and UI/UX design
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/vidisha-vijay-sawant-23a63613a)
 - 🤔 I’m looking for Full-time/Internship opportunity.
 - :notebook: Download my Resume here: <a href ="Vidisha-Resume.pdf">Vidisha Vijay Sawant Resume</a>
-- 📝Currently working on 100DaysofCoding challenge.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vidishasawant10)](https://git.io/streak-stats)
