@@ -1,10 +1,9 @@
 ### Hi there 👋
 I am a Software Developer that enjoys creating web applications, mobile applications and UI/UX designing. Learning new languages and creating projects related to it is what I always look forward to. I have expertise in Java, Android, React, JavaScript, TypeScript, Angular, ,Bootstrap, Node.js, Figma and SQL.
 - Portfolio Website: <a href = "https://vidishasawant.netlify.app/"> Portfolio </a>
-- Capstone Project: <a href ="https://github.com/ksharma67/EasyWay/wiki" >EasyWay </a>
-- UI/UX Project Website: [![Student Hub](https://img.shields.io/badge/Website-Student%20Hub-blue)](https://webpage.pace.edu/np57411n/cs641/StudentHub/index.html)
+- Capstone Project: <a href ="https://github.com/vidishasawant10/EasyWay" >EasyWay </a>
 - HCI Project Figma Link: <a href ="https://www.figma.com/file/YtNW6yNZUqosMQjKaUsiv3/Hope?node-id=0%3A1&t=pyUbt20Zm1vt1tAi-1">Hope</a>
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/vidisha-vijay-sawant-23a63613a)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/vidisha-vijay-sawant)
 - 🤔 I’m looking for Full-time/Internship opportunity.
 - :notebook: Download my Resume here: <a href ="Vidisha Vijay Sawant.pdf">Vidisha Vijay Sawant Resume</a>
 
